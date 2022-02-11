@@ -17,7 +17,7 @@
 
 *Citation Request: This breast cancer domain was obtained from the University Medical Centre, Institute of Oncology, Ljubljana, Yugoslavia. Thanks go to M. Zwitter and M. Soklic for providing the data. Please include this citation if you plan to use this database.*
 
-To-do-list:
+**TO-DO-LIST:**
 - [ ] - Используя shap предоставить визуализацию feature importance для каждой из моделей 
 - [ ] - Улучшить предсказания и метрику, используя ансамблевые методы обучения (XGBoost, CatBoost, LightGBM)
 - [ ] - Написание выводов и рекомендаций для улучшения прогноза модели
